@@ -1,6 +1,6 @@
 ## GRAFANA
-- GF_SECURITY_ADMIN_PASSWORD=prom-operator
 - GF_SECURITY_ADMIN_USER=admin
+- GF_SECURITY_ADMIN_PASSWORD=prom-operator
 
 ## ElasticSearch
 NOTES:
